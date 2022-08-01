@@ -1,0 +1,6 @@
+{
+  "cloud.tempmusic": {
+    "category": "music",
+    "sounds": ["cloud/tempmusic"]
+  }
+}
