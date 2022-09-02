@@ -6,11 +6,9 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 1,
-        "textures": {
-          "layer0": "cloud/tungsten_ingot"
-        }
-      }
+        "custom_model_data": 2,
+      },
+      "model": "cloud-smp:cloud/tungsten_ingot"
     }
   ]
 }

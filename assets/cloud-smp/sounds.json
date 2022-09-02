@@ -1,0 +1,6 @@
+{
+  "cloud.music.tempmusic": {
+    "category": "music",
+    "sounds": ["cloud-smp:cloud/music/tempmusic"]
+  }
+}
