@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"0": "cloud-smp:cloud/tungsten_ingot",
-		"particle": "cloud-smp:cloud/tungsten_ingot"
+		"layer0": "cloud-smp:cloud/item/tungsten_ingot",
+		"particle": "cloud-smp:cloud/item/tungsten_ingot"
 	}
 }

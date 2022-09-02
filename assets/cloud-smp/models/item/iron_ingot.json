@@ -6,6 +6,13 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "cloud-smp:cloud/item/reality_ingot"
+    },
+
+    {
+      "predicate": {
         "custom_model_data": 2
       },
       "model": "cloud-smp:cloud/item/tungsten_ingot"
