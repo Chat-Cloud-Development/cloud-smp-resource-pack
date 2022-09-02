@@ -6,7 +6,7 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 2,
+        "custom_model_data": 2
       },
       "model": "cloud-smp:cloud/item/tungsten_ingot"
     }
