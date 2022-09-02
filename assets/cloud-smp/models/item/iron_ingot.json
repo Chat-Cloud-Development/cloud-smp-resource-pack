@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "cloud/item/tungsten_ingot"
+    "layer0": "item/iron_ingot"
   },
   "overrides": [
     {
