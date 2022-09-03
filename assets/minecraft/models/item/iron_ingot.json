@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "minecraft:item/iron_ingot"
+    "layer0": "item/iron_ingot"
   },
   "overrides": [
     {
@@ -16,6 +16,14 @@
         "custom_model_data": 2
       },
       "model": "cloud-smp:cloud/item/tungsten_ingot"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+
+    "model": "cloud-smp:cloud/item/strengthened_reality_ingot"
     }
   ]
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cloud-smp:cloud/item/corrupted_fragment",
+    "particle": "cloud-smp:cloud/item/corrupted_fragment"
+  }
+}
