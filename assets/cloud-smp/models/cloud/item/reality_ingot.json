@@ -1,6 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "cloud-smp:cloud/item/reality_ingot"
+    "layer0": "cloud-smp:cloud/item/reality_ingot",
+    "particle": "cloud-smp:cloud/item/reality_ingot"
   }
 }
