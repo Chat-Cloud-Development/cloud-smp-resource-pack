@@ -1,21 +1,20 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/iron_ingot"
+    "layer0": "item/iron_hoe"
   },
-  "overrides": [
+  overrides: [
     {
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "cloud-smp:cloud/item/reality_ingot"
+      "model": "cloud-smp:cloud/item/reality_hoe"
     },
-
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "cloud-smp:cloud/item/tungsten_ingot"
+      "model": "cloud-smp:cloud/item/tungsten_hoe"
     }
   ]
 }

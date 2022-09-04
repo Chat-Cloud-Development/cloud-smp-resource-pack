@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cloud-smp:cloud/item/diamond_apple",
+    "particle": "cloud-smp:cloud/item/diamond_apple"
+  }
+}
