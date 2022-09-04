@@ -3,7 +3,7 @@
   "textures": {
     "layer0": "item/iron_sword"
   },
-  overrides: [
+  "overrides": [
     {
       "predicate": {
         "custom_model_data": 1

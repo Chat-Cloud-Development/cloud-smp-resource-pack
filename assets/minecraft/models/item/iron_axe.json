@@ -3,7 +3,7 @@
   "textures": {
     "layer0": "item/iron_axe"
   },
-  overrides: [
+  "overrides": [
     {
       "predicate": {
         "custom_model_data": 1
