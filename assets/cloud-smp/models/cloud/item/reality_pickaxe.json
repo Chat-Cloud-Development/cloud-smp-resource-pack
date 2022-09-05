@@ -1,7 +1,7 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "cloud-smp:cloud/item/reality_pickaxe"
+    "layer0": "cloud-smp:cloud/item/reality_pickaxe",
     "particle": "cloud-smp:cloud/item/reality_pickaxe"
   }
 }
