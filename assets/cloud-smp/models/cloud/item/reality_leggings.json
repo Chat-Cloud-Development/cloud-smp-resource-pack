@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cloud-smp:cloud/item/reality_leggings",
+    "particle": "cloud-smp:cloud/item/reality_leggings"
+  }
+}
