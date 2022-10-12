@@ -10,7 +10,7 @@
       "cloud-smp:cloud/item/revolver/shoot2",
       "cloud-smp:cloud/item/revolver/shoot3"
     ]
-  }
+  },
   "cloud.item.revolver.click": {
     "category": "player",
     "sounds": [
