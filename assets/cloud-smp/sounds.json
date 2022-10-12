@@ -2,5 +2,21 @@
   "cloud.music.tempmusic": {
     "category": "music",
     "sounds": ["cloud-smp:cloud/music/tempmusic"]
+  },
+  "cloud.item.revolver.shoot": {
+    "category": "player",
+    "sounds": [
+      "cloud-smp:cloud/item/revolver/shoot1",
+      "cloud-smp:cloud/item/revolver/shoot2",
+      "cloud-smp:cloud/item/revolver/shoot3"
+    ]
+  }
+  "cloud.item.revolver.click": {
+    "category": "player",
+    "sounds": [
+      "cloud-smp:cloud/item/revolver/click1",
+      "cloud-smp:cloud/item/revolver/click2",
+      "cloud-smp:cloud/item/revolver/click3"
+    ]
   }
 }
