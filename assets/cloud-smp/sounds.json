@@ -38,5 +38,13 @@
       "cloud-smp:cloud/item/repulsor/use2",
       "cloud-smp:cloud/item/repulsor/use3"
     ]
+  },
+  "cloud.entity.former.moan": {
+    "category": "player",
+    "sounds": [
+      "cloud-smp:cloud/entity/former/moan1",
+      "cloud-smp:cloud/entity/former/moan2",
+      "cloud-smp:cloud/entity/former/moan3"
+    ]
   }
 }
