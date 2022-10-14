@@ -30,5 +30,13 @@
       "cloud-smp:cloud/misc/earrape/wii",
       "cloud-smp:cloud/misc/earrape/get_the_fuck_out_of_my_room"
     ]
+  },
+  "cloud.item.repulsor.use": {
+    "category": "player",
+    "sounds": [
+      "cloud-smp:cloud/item/repulsor/use1",
+      "cloud-smp:cloud/item/repulsor/use2",
+      "cloud-smp:cloud/item/repulsor/use3"
+    ]
   }
 }
