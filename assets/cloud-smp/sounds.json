@@ -18,5 +18,17 @@
       "cloud-smp:cloud/item/revolver/click2",
       "cloud-smp:cloud/item/revolver/click3"
     ]
+  },
+  "cloud.misc.earrape": {
+    "category": "neutral",
+    "sounds":[
+      "cloud-smp:cloud/misc/earrape/loud_anvil",
+      "cloud-smp:cloud/misc/earrape/hello_there",
+      "cloud-smp:cloud/misc/earrape/despicable_me",
+      "cloud-smp:cloud/misc/earrape/hoppatee",
+      "cloud-smp:cloud/misc/earrape/oompa",
+      "cloud-smp:cloud/misc/earrape/wii",
+      "cloud-smp:cloud/misc/earrape/get_the_fuck_out_of_my_room"
+    ]
   }
 }
