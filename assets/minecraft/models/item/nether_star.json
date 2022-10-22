@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "cloud-smp:cloud/item/corrupted_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "cloud-smp:cloud/item/singularity"
     }
   ]
 }
